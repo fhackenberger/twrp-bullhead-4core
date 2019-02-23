@@ -1,14 +1,15 @@
-## mktool v3.1
+## TWRP Nexus5X 4core image and mktool v3.1
 ![image](tools/menu.png)
+
+Changed extracted/configs/recovery.img-cmdline to 4 Cores according to [4Core-Android-0-5X boot.img](https://github.com/xcnathan32/4Core-Android-O-5X/commit/a4814e7e9c05e09d41ad1621f9d95f7eea409d77).
 
 mktool is for unpacking & repacking the android boot,
 recovery, or loki images and also for loki patching.
 
-**Tested on ubuntu & xubuntu**
-
-**Project page:**
+**Project page for mktool:**
 https://intechgeek.com/mktool/
 
 ### Resources
+- [xda dev Nexus5X bootloop](https://forum.xda-developers.com/nexus-5x/general/untested-nexus-5x-bootloop-death-fix-t3641199)
 - [mkbootimg](https://github.com/osm0sis/mkbootimg)
 - [loki](https://github.com/djrbliss/loki)
